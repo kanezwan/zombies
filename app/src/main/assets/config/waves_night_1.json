@@ -1,0 +1,23 @@
+{
+  "levelId": "night_1",
+  "totalDurationMs": 140000,
+  "entries": [
+    { "atMs": 12000, "zombieType": "basic", "row": 2 },
+    { "atMs": 20000, "zombieType": "newspaper", "row": 0 },
+    { "atMs": 28000, "zombieType": "basic", "row": 4 },
+    { "atMs": 36000, "zombieType": "conehead", "row": 1 },
+    { "atMs": 44000, "zombieType": "jester", "row": 3 },
+    { "atMs": 50000, "zombieType": "basic", "row": -1 },
+    { "atMs": 56000, "zombieType": "newspaper", "row": -1 },
+    { "atMs": 62000, "zombieType": "flag", "row": -1 },
+    { "atMs": 70000, "zombieType": "football", "row": 2 },
+    { "atMs": 76000, "zombieType": "basic", "row": -1 },
+    { "atMs": 82000, "zombieType": "jester", "row": -1 },
+    { "atMs": 88000, "zombieType": "conehead", "row": 4 },
+    { "atMs": 96000, "zombieType": "newspaper", "row": 1 },
+    { "atMs": 102000, "zombieType": "basic", "row": -1 },
+    { "atMs": 110000, "zombieType": "football", "row": 3 },
+    { "atMs": 118000, "zombieType": "jester", "row": -1 },
+    { "atMs": 126000, "zombieType": "basic", "row": -1 }
+  ]
+}

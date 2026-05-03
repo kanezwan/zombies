@@ -1,0 +1,61 @@
+{
+  "basic": {
+    "hp": 200,
+    "speed": 22,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000
+  },
+  "conehead": {
+    "hp": 570,
+    "speed": 22,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000
+  },
+  "buckethead": {
+    "hp": 1300,
+    "speed": 22,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000
+  },
+  "flag": {
+    "hp": 200,
+    "speed": 28,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000
+  },
+  "polevault": {
+    "hp": 340,
+    "speed": 46,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000,
+    "jumpDistance": 180
+  },
+  "newspaper": {
+    "hp": 200,
+    "speed": 18,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000,
+    "armorHp": 300,
+    "enragedSpeedMultiplier": 2.5
+  },
+  "football": {
+    "hp": 1600,
+    "speed": 45,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000
+  },
+  "jester": {
+    "hp": 500,
+    "speed": 32,
+    "attackDamage": 20,
+    "attackIntervalMs": 1000,
+    "reflectProjectiles": true
+  },
+  "bossdrzomboss": {
+    "hp": 8000,
+    "speed": 12,
+    "attackDamage": 60,
+    "attackIntervalMs": 1200,
+    "isBoss": true
+  }
+}

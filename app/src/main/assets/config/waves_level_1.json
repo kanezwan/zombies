@@ -1,0 +1,23 @@
+{
+  "levelId": "level_1",
+  "totalDurationMs": 120000,
+  "entries": [
+    { "atMs": 15000, "zombieType": "basic", "row": 2 },
+    { "atMs": 22000, "zombieType": "basic", "row": 0 },
+    { "atMs": 30000, "zombieType": "basic", "row": 4 },
+    { "atMs": 38000, "zombieType": "basic", "row": 1 },
+    { "atMs": 46000, "zombieType": "basic", "row": 3 },
+    { "atMs": 53000, "zombieType": "basic", "row": -1 },
+    { "atMs": 58000, "zombieType": "flag", "row": -1 },
+    { "atMs": 60000, "zombieType": "basic", "row": 2 },
+    { "atMs": 66000, "zombieType": "basic", "row": 0 },
+    { "atMs": 72000, "zombieType": "basic", "row": 4 },
+    { "atMs": 78000, "zombieType": "basic", "row": -1 },
+    { "atMs": 84000, "zombieType": "basic", "row": 1 },
+    { "atMs": 90000, "zombieType": "basic", "row": 3 },
+    { "atMs": 95000, "zombieType": "basic", "row": -1 },
+    { "atMs": 100000, "zombieType": "basic", "row": 2 },
+    { "atMs": 105000, "zombieType": "basic", "row": -1 },
+    { "atMs": 110000, "zombieType": "basic", "row": -1 }
+  ]
+}

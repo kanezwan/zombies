@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 简易占位：豌豆射手风格的圆形头像 -->
+    <path
+        android:fillColor="#7CB342"
+        android:pathData="M54,30
+                          m-22,0
+                          a22,22 0 1,0 44,0
+                          a22,22 0 1,0 -44,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,28 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M48,28 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0z" />
+    <path
+        android:fillColor="#558B2F"
+        android:pathData="M44,60 L64,60 L60,84 L48,84 z" />
+</vector>

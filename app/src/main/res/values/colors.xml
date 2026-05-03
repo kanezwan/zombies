@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_bg">#1B5E20</color>
+    <color name="lawn_green">#3A7D44</color>
+    <color name="primary">#388E3C</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="accent">#FFC107</color>
+</resources>

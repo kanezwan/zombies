@@ -1,0 +1,89 @@
+{
+  "sunflower": {
+    "cost": 50,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "produceIntervalMs": 24000,
+    "produceAmount": 25
+  },
+  "peashooter": {
+    "cost": 100,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "attackIntervalMs": 1500,
+    "damage": 20,
+    "projectileSpeed": 520
+  },
+  "repeater": {
+    "cost": 200,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "attackIntervalMs": 1500,
+    "damage": 20,
+    "projectileSpeed": 520,
+    "shotsPerFire": 2,
+    "shotGapMs": 140
+  },
+  "snowpea": {
+    "cost": 175,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "attackIntervalMs": 1500,
+    "damage": 20,
+    "projectileSpeed": 520,
+    "slowMultiplier": 0.5,
+    "slowDurationMs": 3000
+  },
+  "wallnut": {
+    "cost": 50,
+    "cooldownMs": 30000,
+    "hp": 4000
+  },
+  "tallnut": {
+    "cost": 125,
+    "cooldownMs": 30000,
+    "hp": 8000,
+    "polevaultImmune": true
+  },
+  "pumpkin": {
+    "cost": 125,
+    "cooldownMs": 30000,
+    "hp": 4000,
+    "polevaultImmune": true
+  },
+  "cherrybomb": {
+    "cost": 150,
+    "cooldownMs": 50000,
+    "hp": 300,
+    "fuseMs": 1200,
+    "explodeRadius": 260,
+    "explodeDamage": 1800
+  },
+  "torchwood": {
+    "cost": 175,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "torchMultiplier": 2.0
+  },
+  "puffshroom": {
+    "cost": 0,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "attackIntervalMs": 1500,
+    "damage": 20,
+    "projectileSpeed": 420,
+    "nightOnly": true
+  },
+  "wintermelon": {
+    "cost": 200,
+    "cooldownMs": 7500,
+    "hp": 300,
+    "attackIntervalMs": 2000,
+    "damage": 60,
+    "projectileSpeed": 420,
+    "slowMultiplier": 0.5,
+    "slowDurationMs": 2000,
+    "splashRadius": 120,
+    "splashDamageRatio": 0.3
+  }
+}

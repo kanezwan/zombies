@@ -1,0 +1,28 @@
+{
+  "levelId": "level_2",
+  "totalDurationMs": 150000,
+  "entries": [
+    { "atMs": 12000, "zombieType": "basic", "row": 2 },
+    { "atMs": 20000, "zombieType": "basic", "row": 0 },
+    { "atMs": 28000, "zombieType": "conehead", "row": 4 },
+    { "atMs": 36000, "zombieType": "basic", "row": 1 },
+    { "atMs": 42000, "zombieType": "conehead", "row": 3 },
+    { "atMs": 48000, "zombieType": "flag", "row": -1 },
+    { "atMs": 50000, "zombieType": "basic", "row": -1 },
+    { "atMs": 56000, "zombieType": "basic", "row": -1 },
+    { "atMs": 64000, "zombieType": "conehead", "row": 2 },
+    { "atMs": 72000, "zombieType": "polevault", "row": 0 },
+    { "atMs": 78000, "zombieType": "conehead", "row": 4 },
+    { "atMs": 84000, "zombieType": "basic", "row": -1 },
+    { "atMs": 92000, "zombieType": "conehead", "row": 1 },
+    { "atMs": 98000, "zombieType": "flag", "row": -1 },
+    { "atMs": 100000, "zombieType": "basic", "row": -1 },
+    { "atMs": 106000, "zombieType": "polevault", "row": 3 },
+    { "atMs": 112000, "zombieType": "basic", "row": 3 },
+    { "atMs": 118000, "zombieType": "conehead", "row": 2 },
+    { "atMs": 124000, "zombieType": "conehead", "row": -1 },
+    { "atMs": 130000, "zombieType": "basic", "row": -1 },
+    { "atMs": 136000, "zombieType": "conehead", "row": -1 },
+    { "atMs": 142000, "zombieType": "polevault", "row": -1 }
+  ]
+}

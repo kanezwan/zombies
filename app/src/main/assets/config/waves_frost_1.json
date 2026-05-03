@@ -1,0 +1,23 @@
+{
+  "levelId": "frost_1",
+  "totalDurationMs": 150000,
+  "entries": [
+    { "atMs": 10000, "zombieType": "basic", "row": 2 },
+    { "atMs": 18000, "zombieType": "basic", "row": 0 },
+    { "atMs": 26000, "zombieType": "conehead", "row": 3 },
+    { "atMs": 34000, "zombieType": "basic", "row": 4 },
+    { "atMs": 42000, "zombieType": "buckethead", "row": 2 },
+    { "atMs": 50000, "zombieType": "basic", "row": -1 },
+    { "atMs": 58000, "zombieType": "newspaper", "row": 1 },
+    { "atMs": 66000, "zombieType": "conehead", "row": -1 },
+    { "atMs": 74000, "zombieType": "football", "row": 3 },
+    { "atMs": 82000, "zombieType": "buckethead", "row": -1 },
+    { "atMs": 90000, "zombieType": "flag", "row": -1 },
+    { "atMs": 98000, "zombieType": "newspaper", "row": -1 },
+    { "atMs": 106000, "zombieType": "football", "row": 0 },
+    { "atMs": 114000, "zombieType": "basic", "row": -1 },
+    { "atMs": 122000, "zombieType": "jester", "row": 4 },
+    { "atMs": 130000, "zombieType": "buckethead", "row": -1 },
+    { "atMs": 138000, "zombieType": "football", "row": -1 }
+  ]
+}

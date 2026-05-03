@@ -1,0 +1,19 @@
+{
+  "levelId": "boss_1",
+  "totalDurationMs": 240000,
+  "entries": [
+    { "atMs": 12000,  "zombieType": "basic",         "row": 2 },
+    { "atMs": 25000,  "zombieType": "basic",         "row": 0 },
+    { "atMs": 40000,  "zombieType": "basic",         "row": 4 },
+    { "atMs": 55000,  "zombieType": "conehead",      "row": 2 },
+    { "atMs": 70000,  "zombieType": "bossdrzomboss", "row": 2 },
+    { "atMs": 110000, "zombieType": "conehead",      "row": 1 },
+    { "atMs": 125000, "zombieType": "conehead",      "row": 3 },
+    { "atMs": 150000, "zombieType": "buckethead",    "row": 2 },
+    { "atMs": 170000, "zombieType": "flag",          "row": 0 },
+    { "atMs": 185000, "zombieType": "buckethead",    "row": 4 },
+    { "atMs": 205000, "zombieType": "basic",         "row": 1 },
+    { "atMs": 205000, "zombieType": "basic",         "row": 3 },
+    { "atMs": 220000, "zombieType": "buckethead",    "row": 2 }
+  ]
+}
